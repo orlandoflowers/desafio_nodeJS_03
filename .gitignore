@@ -1,0 +1,35 @@
+# Node.js
+node_modules/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Environment variables
+.env
+
+# System-specific files
+*.swp
+*~
+
+# Dependency directories
+vendor/
+
+# Log files
+log/
+logs/
+
+# macOS directory attributes
+.DS_Store
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
